@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo-travel.micro.blog/2026/04/26/checking-in-from-c-and.html",
+				
+				"content_html": "<p>Checking in from the Aegean Sea,<br>\n17 °C and Sunny</p>\n<p>Another relaxing sea day by the pool!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Checking in from the Aegean Sea,   \n17 °C and Sunny  \n  \nAnother relaxing sea day by the pool!  \n  \n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=39.69589815046317,25.67805930178913&zoom=10&maptype=satellite\"></iframe>\n",
+				"date_published": "2026-04-26T12:19:37+03:00",
+				"url": "https://exploretogether.lol/2026/04/26/checking-in-from-c-and.html"
+			},
+			{
 				"id": "http://jomalo-travel.micro.blog/2026/04/24/checking-in-from-fatih-istanbul.html",
 				
 				"content_html": "<p>Checking in from Fatih, Istanbul, Türkiye<br>\n15 °C and Sunny</p>\n<p>High pressure sales everywhere.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Checking in from Fatih, Istanbul, Türkiye  \n15 °C and Sunny  \n  \nHigh pressure sales everywhere.   \n  \n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0¢er=41.00616231399488,28.97554291088316&zoom=17&maptype=satellite\"></iframe>\n",
+				"content_text": "Checking in from Fatih, Istanbul, Türkiye  \n15 °C and Sunny  \n  \nHigh pressure sales everywhere.   \n  \n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=41.00616231399488,28.97554291088316&zoom=17&maptype=satellite\"></iframe>\n",
 				"date_published": "2026-04-24T12:44:11+03:00",
 				"url": "https://exploretogether.lol/2026/04/24/checking-in-from-fatih-istanbul.html"
 			},
