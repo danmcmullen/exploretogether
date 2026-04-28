@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo-travel.micro.blog/2026/04/28/checking-in-from-rodos-south.html",
+				
+				"content_html": "<p>Checking in from Rodos, South Aegean, Greece<br>\n21 °C and Sunny</p>\n<p>Sore feet but we still managed a 5km walk through Old Town.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Checking in from Rodos, South Aegean, Greece  \r\n21 °C and Sunny  \r\n  \r\nSore feet but we still managed a 5km walk through Old Town.   \r\n  \r\n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=36.44493193012529,28.23331615641079&zoom=17&maptype=satellite\"></iframe>\n",
+				"date_published": "2026-04-28T12:41:32+03:00",
+				"url": "https://exploretogether.lol/2026/04/28/checking-in-from-rodos-south.html"
+			},
+			{
+				"id": "http://jomalo-travel.micro.blog/2026/04/27/checking-in-from-selcuk-izmir.html",
+				
+				"content_html": "<p>Checking in from Selcuk, İzmir, Türkiye<br>\n21 °C and Sunny</p>\n<p>Hot day for the Epheseus tour.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Checking in from Selcuk, İzmir, Türkiye  \r\n21 °C and Sunny  \r\n  \r\nHot day for the Epheseus tour.   \r\n  \r\n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=37.9356121564504,27.34566962446801&zoom=17&maptype=satellite\"></iframe>\n",
+				"date_published": "2026-04-27T10:21:36+03:00",
+				"url": "https://exploretogether.lol/2026/04/27/checking-in-from-selcuk-izmir.html"
+			},
+			{
 				"id": "http://jomalo-travel.micro.blog/2026/04/26/checking-in-from-c-and.html",
 				
 				"content_html": "<p>Checking in from the Aegean Sea,<br>\n17 °C and Sunny</p>\n<p>Another relaxing sea day by the pool!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Checking in from the Aegean Sea,   \n17 °C and Sunny  \n  \nAnother relaxing sea day by the pool!  \n  \n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=39.69589815046317,25.67805930178913&zoom=10&maptype=satellite\"></iframe>\n",
+				"content_text": "Checking in from the Aegean Sea,   \n17 °C and Sunny  \n  \nAnother relaxing sea day by the pool!  \n  \n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=39.69589815046317,25.67805930178913&zoom=8&maptype=satellite\"></iframe>\n",
 				"date_published": "2026-04-26T12:19:37+03:00",
 				"url": "https://exploretogether.lol/2026/04/26/checking-in-from-c-and.html"
 			},
