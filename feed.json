@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo-travel.micro.blog/2026/05/02/checking-in-from-mississauga-on.html",
+				
+				"content_html": "<p>Checking in from Mississauga, ON, Canada<br>\n7 °C and Cloudy</p>\n<p>Arrived in Toronto, no gate for us, we sit looking at the airport!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Checking in from Mississauga, ON, Canada  \r\n7 °C and Cloudy  \r\n  \r\nArrived in Toronto, no gate for us, we sit looking at the airport!  \r\n  \r\n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=43.65976367786969,-79.61404066598537&zoom=17&maptype=satellite\"></iframe>\n",
+				"date_published": "2026-05-02T23:47:52+03:00",
+				"url": "https://exploretogether.lol/2026/05/02/checking-in-from-mississauga-on.html"
+			},
+			{
+				"id": "http://jomalo-travel.micro.blog/2026/05/02/checking-in-from-spatoloutsa-attica.html",
+				
+				"content_html": "<p>Checking in from Spato-Loutsa, Attica, Greece<br>\n13 °C and Windy</p>\n<p>Waiting to board the flight to Toronto.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Checking in from Spato-Loutsa, Attica, Greece  \r\n13 °C and Windy  \r\n  \r\nWaiting to board the flight to Toronto.   \r\n  \r\n<iframe width=\"630\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.google.com/maps/embed/v1/view?key=AIzaSyC7-pkLn4p-mFIYVERjkkJ9j146cuXAUS0&center=37.93458509332284,23.9464318131732&zoom=17&maptype=satellite\"></iframe>\n",
+				"date_published": "2026-05-02T12:49:28+03:00",
+				"url": "https://exploretogether.lol/2026/05/02/checking-in-from-spatoloutsa-attica.html"
+			},
+			{
 				"id": "http://jomalo-travel.micro.blog/2026/05/01/checking-in-from-philopappos-hill.html",
 				
 				"content_html": "<p>Checking in from Philopappos Hill, Athens <br>\n12 °C and overcast</p>\n<p>Amazing views of the Acropolis on our last day in Athens.</p>\n<!-- raw HTML omitted -->\n",
